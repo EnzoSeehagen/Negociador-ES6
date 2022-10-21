@@ -20,7 +20,5 @@ class ListaNegociacoes {
 
         this._negociacoes = [];
         
-
-
     }
 }
